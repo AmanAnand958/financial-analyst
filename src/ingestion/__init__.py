@@ -1,0 +1,3 @@
+"""
+FinDoc Intelligence — Ingestion Package
+"""

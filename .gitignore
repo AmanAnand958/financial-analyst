@@ -1,0 +1,52 @@
+# .gitignore — FinDoc Intelligence
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables (NEVER commit)
+.env
+
+# ChromaDB (local vector store — can be regenerated)
+chroma_db/
+
+# Uploaded PDFs (raw data)
+data/raw/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Docker
+.docker/
+
+# Azure
+*.publishsettings

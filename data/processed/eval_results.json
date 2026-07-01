@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-06-27T06:19:42.968284+00:00",
+    "question": "What was the consolidated total revenue from operations in FY2023?",
+    "answer": "I couldn't find reliable information to answer this question in the provided documents. Please try rephrasing your query or upload additional relevant documents.",
+    "confidence": "LOW",
+    "latency_ms": 0,
+    "chunk_count": 0,
+    "avg_relevance_score": 0.0,
+    "is_abstain": true
+  },
+  {
+    "timestamp": "2026-06-27T06:20:12.518420+00:00",
+    "question": "What was the consolidated total revenue from operations in FY2023?",
+    "answer": "I couldn't find reliable information to answer this question in the provided documents. Please try rephrasing your query or upload additional relevant documents.",
+    "confidence": "LOW",
+    "latency_ms": 0,
+    "chunk_count": 0,
+    "avg_relevance_score": 0.0,
+    "is_abstain": true
+  },
+  {
+    "timestamp": "2026-06-27T06:23:02.215134+00:00",
+    "question": "What was the consolidated total revenue from operations in FY2023?",
+    "answer": "The consolidated total revenue from operations in FY2023 was 2,40,000 Crore. \n(Source: kpmg_mock_annual_report_fy2023.pdf, Page 1)",
+    "confidence": "HIGH",
+    "latency_ms": 422,
+    "chunk_count": 1,
+    "avg_relevance_score": 0.7271,
+    "is_abstain": false
+  },
+  {
+    "timestamp": "2026-06-27T06:30:40.384508+00:00",
+    "question": "What was the consolidated total revenue from operations in FY2023?",
+    "answer": "The consolidated total revenue from operations in FY2023 was 2,40,000 Crore. \n(Source: kpmg_mock_annual_report_fy2023.pdf, Page 1)",
+    "confidence": "HIGH",
+    "latency_ms": 268,
+    "chunk_count": 1,
+    "avg_relevance_score": 0.7271,
+    "is_abstain": false
+  },
+  {
+    "timestamp": "2026-06-27T06:33:35.345307+00:00",
+    "question": "What was the total revenue in FY2023?",
+    "answer": "The total revenue from operations in FY2023 was 2,40,000 Crore. \n(Source: kpmg_mock_annual_report_fy2023.pdf, Page 1)",
+    "confidence": "HIGH",
+    "latency_ms": 413,
+    "chunk_count": 1,
+    "avg_relevance_score": 0.7372,
+    "is_abstain": false
+  },
+  {
+    "timestamp": "2026-06-27T06:33:42.088812+00:00",
+    "question": "What was the total revenue in FY2021?",
+    "answer": "I don't have this information in the provided documents. \n\nThe provided document, kpmg_mock_annual_report_fy2023.pdf, Page 1, only mentions the total revenue for FY2023 and FY2022, but does not provide information on FY2021.",
+    "confidence": "HIGH",
+    "latency_ms": 288,
+    "chunk_count": 1,
+    "avg_relevance_score": 0.7337,
+    "is_abstain": false
+  }
+]

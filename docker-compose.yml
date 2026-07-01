@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  # ── FastAPI Backend ──────────────────────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fdi-api
+    ports:
+      - "8000:8000"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - CHROMA_DB_PATH=/app/chroma_db
+      - DEBUG=${DEBUG:-False}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    volumes:
+      - ./src:/app/src          # hot-reload during development
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+      - ./config.yaml:/app/config.yaml
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # ── Streamlit Frontend ───────────────────────────────────────────────────
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: fdi-ui
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  chroma_db:
