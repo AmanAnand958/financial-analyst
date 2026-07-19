@@ -1,0 +1,452 @@
+[
+  {
+    "instruction": "What is the primary market segment of FinDoc Intelligence Ltd.?",
+    "input": "North America remains our primary market segment, contributing to over 50% of the overall revenue.",
+    "output": "The primary market segment of FinDoc Intelligence Ltd. is North America, accounting for more than 50% of the company's overall revenue."
+  },
+  {
+    "instruction": "Calculate the number of employees in North America as a percentage of the total employee strength.",
+    "input": "North America remains our primary market segment, contributing to over 50% of the overall revenue. The company's total employee strength stood at 45,200 as of March 31, 2023",
+    "output": "As of March 31, 2023, the number of employees in North America as a percentage of the total employee strength is (50% of 45,200) / 45,200 = 22.5%."
+  },
+  {
+    "instruction": "What is the targeted Return on Equity (ROE) for FinDoc Intelligence Ltd.?",
+    "input": "For the medium term, management has targeted a Return on Equity (ROE) of 20.0% to 22.0% as part of our capital allocation strategy, focused on margin improvement in cloud services and high-margin consulting.",
+    "output": "The targeted Return on Equity (ROE) for FinDoc Intelligence Ltd. is between 20.0% and 22.0%."
+  },
+  {
+    "instruction": "What is the annual turnover rate of FinDoc Intelligence Ltd.?",
+    "input": "The company's total employee strength stood at 45,200 as of March 31, 2023, with an annual turnover rate of 12.5% indicating strong talent retention compared to industry benchmarks.",
+    "output": "The annual turnover rate of FinDoc Intelligence Ltd. is 12.5%."
+  },
+  {
+    "instruction": "What is the geographic region with the lowest employee strength?",
+    "input": "Our operations are split into three geographic divisions: North America, Europe, and Asia-Pacific.",
+    "output": "The geographic region with the lowest employee strength is not specified in the provided information. However, based on the context, it can be inferred that North America has the highest employee strength, while Europe and Asia-Pacific have lower employee strengths."
+  },
+  {
+    "instruction": "What is the primary market segment for FinDoc Intelligence Ltd.?",
+    "input": "Our operations are split into three geographic divisions: North America, Europe, and Asia-Pacific. North America remains our primary market segment, contributing to over 50% of the overall revenue.",
+    "output": "The primary market segment for FinDoc Intelligence Ltd. is North America, accounting for over 50% of the overall revenue."
+  },
+  {
+    "instruction": "What is the total employee strength of FinDoc Intelligence Ltd. as of March 31, 2023?",
+    "input": "The company's total employee strength stood at 45,200 as of March 31, 2023, with an annual turnover rate of 12.5% indicating strong talent retention compared to industry benchmarks.",
+    "output": "The total employee strength of FinDoc Intelligence Ltd. as of March 31, 2023, is 45,200."
+  },
+  {
+    "instruction": "Calculate the range of the targeted Return on Equity (ROE) for FinDoc Intelligence Ltd.",
+    "input": "For the medium term, management has targeted a Return on Equity (ROE) of 20.0% to 22.0% as part of our capital allocation strategy, focused on margin improvement in cloud services and high-margin consulting.",
+    "output": "The targeted Return on Equity (ROE) for FinDoc Intelligence Ltd. ranges from 20.0% to 22.0%."
+  },
+  {
+    "instruction": "What is the annual turnover rate of FinDoc Intelligence Ltd. employees?",
+    "input": "The company's total employee strength stood at 45,200 as of March 31, 2023, with an annual turnover rate of 12.5% indicating strong talent retention compared to industry benchmarks.",
+    "output": "The annual turnover rate of FinDoc Intelligence Ltd. employees is 12.5%."
+  },
+  {
+    "instruction": "Is it true that FinDoc Intelligence Ltd. operates as a global leader in enterprise digital services?",
+    "input": "FinDoc Intelligence Ltd. operates as a global leader in enterprise digital services, providing cloud-native integration pipelines, cybersecurity consulting, and advanced AI retrieval models.",
+    "output": "Yes, it is true that FinDoc Intelligence Ltd. operates as a global leader in enterprise digital services."
+  },
+  {
+    "instruction": "What is the primary market segment for FinDoc Intelligence Ltd.'s operations?",
+    "input": "Our operations are split into three geographic divisions: North America, Europe, and Asia-Pacific. North America remains our primary market segment, contributing to over 50% of the overall revenue.",
+    "output": "The primary market segment for FinDoc Intelligence Ltd.'s operations is North America, which accounts for over 50% of the overall revenue."
+  },
+  {
+    "instruction": "What is the targeted Return on Equity (ROE) range for FinDoc Intelligence Ltd.?",
+    "input": "For the medium term, management has targeted a Return on Equity (ROE) of 20.0% to 22.0% as part of our capital allocation strategy, focused on margin improvement in cloud services and high-margin consulting.",
+    "output": "The targeted Return on Equity (ROE) range for FinDoc Intelligence Ltd. is 20.0% to 22.0%."
+  },
+  {
+    "instruction": "What is the total employee strength for FinDoc Intelligence Ltd. as of March 31, 2023?",
+    "input": "Our operations are split into three geographic divisions: North America, Europe, and Asia-Pacific. North America remains our primary market segment, contributing to over 50% of the overall revenue. The company's total employee strength stood at 45,200 as of March 31, 2023, with an annual turnover rate of 12.5% indicating strong talent retention compared to industry benchmarks.",
+    "output": "The total employee strength for FinDoc Intelligence Ltd. as of March 31, 2023, is 45,200."
+  },
+  {
+    "instruction": "What is the annual turnover rate for FinDoc Intelligence Ltd.?",
+    "input": "The company's total employee strength stood at 45,200 as of March 31, 2023, with an annual turnover rate of 12.5% indicating strong talent retention compared to industry benchmarks.",
+    "output": "The annual turnover rate for FinDoc Intelligence Ltd. is 12.5%."
+  },
+  {
+    "instruction": "What is the primary industry segment for FinDoc Intelligence Ltd.'s operations?",
+    "input": "FinDoc Intelligence Ltd. operates as a global leader in enterprise digital services, providing cloud-native integration pipelines, cybersecurity consulting, and advanced AI retrieval models.",
+    "output": "The primary industry segment for FinDoc Intelligence Ltd.'s operations is enterprise digital services."
+  },
+  {
+    "instruction": "What was the consolidated revenue from operations in FY2023?",
+    "input": "In FY2023, the consolidated total revenue from operations stood at n2,40,000 Crore, compared to n2,10,000 Crore in the previous fiscal year, demonstrating a growth of 14.28%.",
+    "output": "The consolidated revenue from operations in FY2023 was n2,40,000 Crore."
+  },
+  {
+    "instruction": "What was the EBITDA margin in FY2023?",
+    "input": "Our EBITDA grew to n74,000 Crore (up from n48,000 Crore in FY2022), resulting in an EBITDA margin of 30.83%.",
+    "output": "The EBITDA margin in FY2023 was 30.83%."
+  },
+  {
+    "instruction": "What was the depreciation and amortization (D&A) expense in FY2023?",
+    "input": "Income Statement Item FY2023 (n in Crore) FY2022 (n in Crore)\nConsolidated Revenue from Operations 2,40,000 2,10,000\nOperating Expenses (excluding D&A) 1,66,000 1,62,000\nOperating Profit (EBITDA) 74,000 48,000\nDepreciation & Amortization (D&A) 10,000 8,000",
+    "output": "The depreciation and amortization (D&A) expense in FY2023 was n10,000 Crore."
+  },
+  {
+    "instruction": "What was the net profit margin for FY2023?",
+    "input": "Note: Net profit margin for FY2023 was 18.75%, up from 12.5% in FY2022.",
+    "output": "The net profit margin for FY2023 was 18.75%."
+  },
+  {
+    "instruction": "What is the implied interest expense as a percentage of PBT?",
+    "input": "Income Statement Item FY2023 (n in Crore) FY2022 (n in Crore)\nConsolidated Revenue from Operations 2,40,000 2,10,000\nOperating Expenses (excluding D&A) 1,66,000 1,62,000\nOperating Profit (EBITDA) 74,000 48,000\nDepreciation & Amortization (D&A) 10,000 8,000\nEarnings Before Interest & Tax (EBIT) 64,000 40,000\nInterest Expense 4,000 5,000\nProfit Before Tax (PBT) 60,000 35,000",
+    "output": "To calculate the implied interest expense as a percentage of PBT, we would need to know the interest income, which is not provided. However, we can calculate the implied interest expense as a percentage of EBIT: (4,000 / 64,000) * 100 = 6.25%."
+  },
+  {
+    "instruction": "What was the consolidated revenue from operations in FY2023?",
+    "input": "In FY2023, the consolidated total revenue from operations stood at n2,40,000 Crore, compared to n2,10,000 Crore in the previous fiscal year, demonstrating a growth of 14.28%.",
+    "output": "The consolidated revenue from operations in FY2023 was n2,40,000 Crore."
+  },
+  {
+    "instruction": "What was the EBITDA margin in FY2023?",
+    "input": "Our EBITDA grew to n74,000 Crore (up from n48,000 Crore in FY2022), resulting in an EBITDA margin of 30.83%.",
+    "output": "The EBITDA margin in FY2023 was 30.83%."
+  },
+  {
+    "instruction": "What was the depreciation and amortization (D&A) expense in FY2023?",
+    "input": "Income Statement Item FY2023 (n in Crore) FY2022 (n in Crore)\nConsolidated Revenue from Operations 2,40,000 2,10,000\nOperating Expenses (excluding D&A) 1,66,000 1,62,000\nOperating Profit (EBITDA) 74,000 48,000\nDepreciation & Amortization (D&A) 10,000 8,000\nEarnings Before Interest & Tax (EBIT) 64,000 40,000",
+    "output": "The depreciation and amortization (D&A) expense in FY2023 was n10,000 Crore."
+  },
+  {
+    "instruction": "What was the net profit margin for FY2023?",
+    "input": "Note: Net profit margin for FY2023 was 18.75%, up from 12.5% in FY2022.",
+    "output": "The net profit margin for FY2023 was 18.75%."
+  },
+  {
+    "instruction": "What was the tax expense as a percentage of profit before tax in FY2023?",
+    "input": "Income Statement Item FY2023 (n in Crore) FY2022 (n in Crore)\n... \nTax Expense (at 25.0% rate) 15,000 8,750",
+    "output": "The tax expense as a percentage of profit before tax in FY2023 was 25.0%."
+  },
+  {
+    "instruction": "What was the consolidated revenue from operations in FY2023?",
+    "input": "In FY2023, the consolidated total revenue from operations stood at n2,40,000 Crore, compared to n2,10,000 Crore in the previous fiscal year, demonstrating a growth of 14.28%",
+    "output": "The consolidated revenue from operations in FY2023 was n2,40,000 Crore."
+  },
+  {
+    "instruction": "What was the growth rate of EBITDA from FY2022 to FY2023?",
+    "input": "Our EBITDA grew to n74,000 Crore (up from n48,000 Crore in FY2022), resulting in an EBITDA margin of 30.83%",
+    "output": "The growth rate of EBITDA from FY2022 to FY2023 was 54.17%."
+  },
+  {
+    "instruction": "What is the net profit margin for FY2023?",
+    "input": "Note: Net profit margin for FY2023 was 18.75%, up from 12.5% in FY2022.",
+    "output": "The net profit margin for FY2023 was 18.75%."
+  },
+  {
+    "instruction": "What was the depreciation and amortization expense in FY2022?",
+    "input": "Income Statement Item FY2023 (n in Crore) FY2022 (n in Crore)\nDepreciation & Amortization (D&A) 10,000 8,000",
+    "output": "The depreciation and amortization expense in FY2022 was n8,000 Crore."
+  },
+  {
+    "instruction": "What is the tax expense rate?",
+    "input": "Tax Expense (at 25.0% rate) 15,000 8,750",
+    "output": "The tax expense rate is 25.0%."
+  },
+  {
+    "instruction": "What was the total assets of the company as of March 31, 2023?",
+    "input": "As of March 31, 2023, the total assets of the company reached n1,95,000 Crore",
+    "output": "The total assets of the company as of March 31, 2023, was n1,95,000 Crore."
+  },
+  {
+    "instruction": "What is the increase in total assets from March 31, 2022 to March 31, 2023?",
+    "input": "As of March 31, 2023, the total assets of the company reached n1,95,000 Crore, supported by strong reserves accumulation and working capital. The company maintains an optimal debt-to-equity ratio.\nBalance Sheet Line Item As of March 31, 2023 (n in Cr) As of March 31, 2022 (n in Cr)",
+    "output": "The total assets increased by n25,000 Crore from n1,70,000 Crore as of March 31, 2022 to n1,95,000 Crore as of March 31, 2023."
+  },
+  {
+    "instruction": "What was the amount of Cash and Cash Equivalents as of March 31, 2023?",
+    "input": "Balance Sheet Line Item As of March 31, 2023 (n in Cr) As of March 31, 2022 (n in Cr)\n-- Of which: Cash and Cash Equivalents 12,500 7,500",
+    "output": "The amount of Cash and Cash Equivalents as of March 31, 2023, was n12,500 Crore."
+  },
+  {
+    "instruction": "What is the total amount of Long-Term Borrowings (Debt) as of March 31, 2023?",
+    "input": "Non-Current Liabilities 45,000 40,000\n-- Of which: Long-Term Borrowings (Debt) 18,000 20,000",
+    "output": "The total amount of Long-Term Borrowings (Debt) as of March 31, 2023, was n18,000 Crore."
+  },
+  {
+    "instruction": "What is the note regarding the annual impairment test for Goodwill?",
+    "input": "Note: Management conducted annual impairment test for Goodwill and found no impairment loss.",
+    "output": "The management conducted an annual impairment test for Goodwill and found no impairment loss."
+  },
+  {
+    "instruction": "What was the total value of the company's assets as of March 31, 2023?",
+    "input": "As of March 31, 2023, the total assets of the company reached n1,95,000 Crore",
+    "output": "The total value of the company's assets as of March 31, 2023, was n1,95,000 Crore."
+  },
+  {
+    "instruction": "Calculate the increase in the company's non-current assets between March 31, 2023, and March 31, 2022.",
+    "input": "Non-Current Assets (inc. Goodwill & R&D) 1,20,000 1,05,000",
+    "output": "The increase in the company's non-current assets between March 31, 2023, and March 31, 2022, was n15,000 (1,20,000 - 1,05,000)."
+  },
+  {
+    "instruction": "What is the amount of cash and cash equivalents as of March 31, 2023?",
+    "input": "-- Of which: Cash and Cash Equivalents 12,500 7,500",
+    "output": "The amount of cash and cash equivalents as of March 31, 2023, was n12,500 Crore."
+  },
+  {
+    "instruction": "What is the total value of the company's research and development (R&D) capitalized as of March 31, 2023?",
+    "input": "Note: Management conducted annual impairment test for Goodwill and found no impairment loss. Total research and development (R&D;) capitalized stood at n8,500 Crore.",
+    "output": "The total value of the company's research and development (R&D) capitalized as of March 31, 2023, was n8,500 Crore."
+  },
+  {
+    "instruction": "What is the company's debt-to-equity ratio as of March 31, 2023?",
+    "input": "The company maintains an optimal debt-to-equity ratio.",
+    "output": "Unfortunately, the provided information does not specify the exact debt-to-equity ratio as of March 31, 2023."
+  },
+  {
+    "instruction": "What was the total assets of the company as of March 31, 2023?",
+    "input": "As of March 31, 2023, the total assets of the company reached n1,95,000 Crore, supported by strong reserves accumulation and working capital.",
+    "output": "The total assets of the company as of March 31, 2023, were n1,95,000 Crore."
+  },
+  {
+    "instruction": "What is the difference in total assets between March 31, 2023, and March 31, 2022?",
+    "input": "As of March 31, 2023 (n in Cr) As of March 31, 2022 (n in Cr)\nTotal Assets 1,95,000 1,70,000",
+    "output": "The difference in total assets between March 31, 2023, and March 31, 2022, is n25,000 Crore."
+  },
+  {
+    "instruction": "What is the amount of cash and cash equivalents as of March 31, 2023?",
+    "input": "-- Of which: Cash and Cash Equivalents 12,500 7,500",
+    "output": "The amount of cash and cash equivalents as of March 31, 2023, is n12,500 Crore."
+  },
+  {
+    "instruction": "What is the total research and development (R&D) capitalized as of March 31, 2023?",
+    "input": "Note: Management conducted annual impairment test for Goodwill and found no impairment loss. Total research and development (R&D;) capitalized stood at n8,500 Crore.",
+    "output": "The total research and development (R&D) capitalized as of March 31, 2023, is n8,500 Crore."
+  },
+  {
+    "instruction": "What is the debt-to-equity ratio of the company?",
+    "input": "The company maintains an optimal debt-to-equity ratio.",
+    "output": "However, the actual debt-to-equity ratio is not provided in the given context. It is mentioned that the company maintains an optimal debt-to-equity ratio, but the specific ratio value is not disclosed."
+  },
+  {
+    "instruction": "What was the net cash flow from operating activities in FY2023?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Cash Flow from Operating Activities 55,000 32,000",
+    "output": "The net cash flow from operating activities in FY2023 was 55,000 crores."
+  },
+  {
+    "instruction": "What is the difference in net cash flow from operating activities between FY2023 and FY2022?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Cash Flow from Operating Activities 55,000 32,000",
+    "output": "The difference in net cash flow from operating activities between FY2023 and FY2022 is 23,000 crores."
+  },
+  {
+    "instruction": "What was the dividend payout ratio in FY2023?",
+    "input": "Note: Dividend declared per share was n10.00 per equity share, leading to a dividend payout ratio of 22.22% against the FY2023 net profit.",
+    "output": "The dividend payout ratio in FY2023 was 22.22%."
+  },
+  {
+    "instruction": "What was the net increase in cash and cash equivalents in FY2023?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Increase in Cash and Cash Equivalents 5,000 2,000",
+    "output": "The net increase in cash and cash equivalents in FY2023 was 5,000 crores."
+  },
+  {
+    "instruction": "What is the cash and cash equivalents at the beginning and end of FY2023?",
+    "input": "Cash and Cash Equivalents at Beginning of Year 7,500 5,500\nCash and Cash Equivalents at End of Year 12,500 7,500",
+    "output": "The cash and cash equivalents at the beginning of FY2023 was 7,500 crores, and at the end of FY2023 was 12,500 crores."
+  },
+  {
+    "instruction": "What was the net cash flow from operating activities in FY2023?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Cash Flow from Operating Activities 55,000 32,000",
+    "output": "The net cash flow from operating activities in FY2023 was 55,000 crores."
+  },
+  {
+    "instruction": "What was the increase in cash and cash equivalents in FY2023 compared to FY2022?",
+    "input": "Net Increase in Cash and Cash Equivalents 5,000 2,000",
+    "output": "The net increase in cash and cash equivalents in FY2023 was 3,000 crores more than in FY2022."
+  },
+  {
+    "instruction": "What was the dividend payout ratio of FY2023?",
+    "input": "Note: Dividend declared per share was n10.00 per equity share, leading to a dividend payout ratio of 22.22% against the FY2023 net profit.",
+    "output": "The dividend payout ratio of FY2023 was 22.22%."
+  },
+  {
+    "instruction": "What was the change in cash and cash equivalents at the end of FY2023 compared to the beginning of the year?",
+    "input": "Cash and Cash Equivalents at Beginning of Year 7,500 5,500\nCash and Cash Equivalents at End of Year 12,500 7,500",
+    "output": "The cash and cash equivalents at the end of FY2023 increased by 5,000 crores compared to the beginning of the year."
+  },
+  {
+    "instruction": "What was the net cash used in investing activities in FY2023?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Cash used in Investing Activities -18,000 -22,000",
+    "output": "The net cash used in investing activities in FY2023 was 18,000 crores."
+  },
+  {
+    "instruction": "What was the net cash flow from operating activities in FY2023?",
+    "input": "Cash Flow Activities FY2023 (n in Crore) FY2022 (n in Crore)\nNet Cash Flow from Operating Activities 55,000 32,000",
+    "output": "The net cash flow from operating activities in FY2023 was 55,000 Crore."
+  },
+  {
+    "instruction": "What was the difference in capital expenditure between FY2023 and FY2022?",
+    "input": "Net Cash used in Investing Activities -18,000 -22,000\n-- Of which: Capital Expenditure (Capex) -15,000 -18,000",
+    "output": "The difference in capital expenditure between FY2023 and FY2022 was 3,000 Crore, with FY2022 having a higher expenditure of 18,000 Crore compared to FY2023's 15,000 Crore."
+  },
+  {
+    "instruction": "What was the net increase in cash and cash equivalents in FY2023?",
+    "input": "Net Increase in Cash and Cash Equivalents 5,000 2,000",
+    "output": "The net increase in cash and cash equivalents in FY2023 was 5,000 Crore."
+  },
+  {
+    "instruction": "What was the dividend payout ratio in FY2023?",
+    "input": "Note: Dividend declared per share was n10.00 per equity share, leading to a dividend payout ratio of 22.22% against the FY2023 net profit.",
+    "output": "The dividend payout ratio in FY2023 was 22.22%."
+  },
+  {
+    "instruction": "What would be the cash and cash equivalents at the beginning of FY2024 if the net increase in cash and cash equivalents in FY2023 was 5,000 Crore?",
+    "input": "Cash and Cash Equivalents at Beginning of Year 7,500 5,500",
+    "output": "If the net increase in cash and cash equivalents in FY2023 was 5,000 Crore, the cash and cash equivalents at the beginning of FY2024 would be 17,500 Crore."
+  },
+  {
+    "instruction": "What was the total statutory audit fee paid to B.K. Ram & Co. LLP?",
+    "input": "During the year, the statutory auditors, B.K. Ram & Co. LLP, were paid a total statutory audit fee of n4.5 Crore.",
+    "output": "The total statutory audit fee paid to B.K. Ram & Co. LLP was n4.5 Crore."
+  },
+  {
+    "instruction": "Calculate the percentage of non-audit tax advisory services to the statutory audit fee.",
+    "input": "Additionally, fees paid to B.K. Ram & Co. LLP for non-audit tax advisory services stood at n1.2 Crore, which represents 26.6% of the statutory audit fee.",
+    "output": "The percentage of non-audit tax advisory services to the statutory audit fee is 26.6%."
+  },
+  {
+    "instruction": "What is the outstanding advance provided to FinDoc Cloud Inc. (USA) for working capital support as of March 31, 2023?",
+    "input": "Outstanding advances provided to the wholly-owned subsidiary, FinDoc Cloud Inc. (USA), for working capital support stood at n5,000 Crore as of March 31, 2023.",
+    "output": "The outstanding advance provided to FinDoc Cloud Inc. (USA) for working capital support as of March 31, 2023, is n5,000 Crore."
+  },
+  {
+    "instruction": "What is the increase in lease liabilities from FY2022 to FY2023?",
+    "input": "Lease liabilities recognized as of March 31, 2023, stood at n3,200 Crore (compared to n2,800 Crore in FY2022).",
+    "output": "The increase in lease liabilities from FY2022 to FY2023 is n400 Crore."
+  },
+  {
+    "instruction": "What is the total amount of tax disputes pending with appellate authorities?",
+    "input": "Tax disputes pending with appellate authorities total n1,500 Crore.",
+    "output": "The total amount of tax disputes pending with appellate authorities is n1,500 Crore."
+  },
+  {
+    "instruction": "What was the total statutory audit fee paid to B.K. Ram & Co. LLP?",
+    "input": "During the year, the statutory auditors, B.K. Ram & Co. LLP, were paid a total statutory audit fee of n4.5 Crore.",
+    "output": "The total statutory audit fee paid to B.K. Ram & Co. LLP was n4.5 Crore."
+  },
+  {
+    "instruction": "What percentage of the statutory audit fee was paid for non-audit tax advisory services?",
+    "input": "Additionally, fees paid to B.K. Ram & Co. LLP for non-audit tax advisory services stood at n1.2 Crore, which represents 26.6% of the statutory audit fee.",
+    "output": "The percentage of the statutory audit fee paid for non-audit tax advisory services was 26.6%."
+  },
+  {
+    "instruction": "What was the outstanding advance provided to FinDoc Cloud Inc. (USA) as of March 31, 2023?",
+    "input": "The company entered into transactions with related parties in the normal course of business. Outstanding advances provided to the wholly-owned subsidiary, FinDoc Cloud Inc. (USA), for working capital support stood at n5,000 Crore as of March 31, 2023.",
+    "output": "The outstanding advance provided to FinDoc Cloud Inc. (USA) as of March 31, 2023, was n5,000 Crore."
+  },
+  {
+    "instruction": "What was the increase in lease liabilities from FY2022 to FY2023?",
+    "input": "Lease liabilities recognized as of March 31, 2023, stood at n3,200 Crore (compared to n2,800 Crore in FY2022).",
+    "output": "The increase in lease liabilities from FY2022 to FY2023 was n400 Crore."
+  },
+  {
+    "instruction": "What is the total amount of tax disputes pending with appellate authorities?",
+    "input": "Tax disputes pending with appellate authorities total n1,500 Crore.",
+    "output": "The total amount of tax disputes pending with appellate authorities is n1,500 Crore."
+  },
+  {
+    "instruction": "What was the total statutory audit fee paid to B.K. Ram & Co. LLP during the year?",
+    "input": "During the year, the statutory auditors, B.K. Ram & Co. LLP, were paid a total statutory audit fee of n4.5 Crore.",
+    "output": "The total statutory audit fee paid to B.K. Ram & Co. LLP during the year was n4.5 Crore."
+  },
+  {
+    "instruction": "What percentage of the statutory audit fee was paid for non-audit tax advisory services?",
+    "input": "Additionally, fees paid to B.K. Ram & Co. LLP for non-audit tax advisory services stood at n1.2 Crore, which represents 26.6% of the statutory audit fee.",
+    "output": "The percentage of the statutory audit fee paid for non-audit tax advisory services was 26.6%."
+  },
+  {
+    "instruction": "What was the outstanding advance provided to FinDoc Cloud Inc. (USA) as of March 31, 2023?",
+    "input": "The company entered into transactions with related parties in the normal course of business. Outstanding advances provided to the wholly-owned subsidiary, FinDoc Cloud Inc. (USA), for working capital support stood at n5,000 Crore as of March 31, 2023.",
+    "output": "The outstanding advance provided to FinDoc Cloud Inc. (USA) as of March 31, 2023, was n5,000 Crore."
+  },
+  {
+    "instruction": "What was the increase in lease liabilities from FY2022 to FY2023?",
+    "input": "Lease liabilities recognized as of March 31, 2023, stood at n3,200 Crore (compared to n2,800 Crore in FY2022).",
+    "output": "The increase in lease liabilities from FY2022 to FY2023 was n400 Crore."
+  },
+  {
+    "instruction": "What is the total amount of tax disputes pending with appellate authorities?",
+    "input": "Tax disputes pending with appellate authorities total n1,500 Crore.",
+    "output": "The total amount of tax disputes pending with appellate authorities is n1,500 Crore."
+  },
+  {
+    "instruction": "What was the total revenue from Cloud Services in FY2023?",
+    "input": "Cloud Services 1,10,000",
+    "output": "The total revenue from Cloud Services in FY2023 was \u20b91,10,000 crores."
+  },
+  {
+    "instruction": "Calculate the total revenue from Consulting and Cloud Services in FY2023.",
+    "input": "Cloud Services 1,10,000\nCyber Security 80,000\nConsulting 50,000",
+    "output": "The total revenue from Consulting and Cloud Services in FY2023 was \u20b91,40,000 crores (\u20b91,10,000 crores from Cloud Services and \u20b930,000 crores from Consulting)."
+  },
+  {
+    "instruction": "What percentage of FY2023 revenue came from North America?",
+    "input": "North America: 52%",
+    "output": "The percentage of FY2023 revenue that came from North America was 52%."
+  },
+  {
+    "instruction": "What is the name of the chairman of the Audit Committee?",
+    "input": "The committee is composed of 4 independent directors, chaired by Mr. S. Srinivasan.",
+    "output": "The chairman of the Audit Committee is Mr. S. Srinivasan."
+  },
+  {
+    "instruction": "How many times did the Audit Committee meet in FY2023?",
+    "input": "The committee met 6 times during FY2023.",
+    "output": "The Audit Committee met 6 times during FY2023."
+  },
+  {
+    "instruction": "What was the total revenue of Cloud Services in FY2023?",
+    "input": "Cloud Services 1,10,000 32,000",
+    "output": "The total revenue of Cloud Services in FY2023 was \u20b91,10,000 crores."
+  },
+  {
+    "instruction": "Calculate the total revenue of Consulting and Cloud Services in FY2023.",
+    "input": "Cloud Services 1,10,000 32,000\nConsulting 50,000 16,000",
+    "output": "The total revenue of Consulting and Cloud Services in FY2023 was \u20b91,60,000 crores."
+  },
+  {
+    "instruction": "What was the segment profit of Cyber Security in FY2023?",
+    "input": "Cyber Security 80,000 26,000",
+    "output": "The segment profit of Cyber Security in FY2023 was \u20b926,000 crores."
+  },
+  {
+    "instruction": "What percentage of FY2023 revenue came from the Asia-Pacific region?",
+    "input": "Asia-Pacific: 20% (n48,000 Crore) - Emerging cyber operations region.",
+    "output": "Twenty percent of FY2023 revenue came from the Asia-Pacific region."
+  },
+  {
+    "instruction": "How many times did the Audit Committee meet during FY2023?",
+    "input": "The committee met 6 times during FY2023.",
+    "output": "The Audit Committee met six times during FY2023."
+  },
+  {
+    "instruction": "What was the total revenue from Cloud Services in FY2023?",
+    "input": "Cloud Services 1,10,000 32,000",
+    "output": "The total revenue from Cloud Services in FY2023 was \u20b91,10,000 Cr."
+  },
+  {
+    "instruction": "Calculate the total revenue from Consulting and Cloud Services combined.",
+    "input": "Cloud Services 1,10,000 32,000\nConsulting 50,000 16,000",
+    "output": "The combined total revenue from Consulting and Cloud Services is \u20b91,60,000 Cr."
+  },
+  {
+    "instruction": "What percentage of the total revenue came from North America?",
+    "input": "North America: 52% (n1,24,800 Crore) - Primary growth market.",
+    "output": "North America accounted for 52% of the total revenue, amounting to \u20b91,24,800 Cr."
+  },
+  {
+    "instruction": "Were there any defaults on loan repayments or interest payments reported during FY2023?",
+    "input": "There were no defaults on loan repayments or interest payments reported during the financial year.",
+    "output": "No, there were no defaults on loan repayments or interest payments reported during FY2023."
+  },
+  {
+    "instruction": "How many times did the Audit Committee meet during FY2023?",
+    "input": "The committee met 6 times during FY2023.",
+    "output": "The Audit Committee met 6 times during FY2023."
+  }
+]
